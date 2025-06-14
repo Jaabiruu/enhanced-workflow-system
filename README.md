@@ -91,8 +91,8 @@ workflow/
 ### 1. Initial Setup
 ```bash
 # Clone the workflow template
-git clone [repository-url]
-cd [your-project]
+git clone https://github.com/Jaabiruu/enhanced-workflow-system.git
+cd enhanced-workflow-system
 
 # Copy workflow folder to your project
 cp -r workflow-template/workflow ./
